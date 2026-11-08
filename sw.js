@@ -1,5 +1,5 @@
 /* qrtag-private — Service Worker: كاش للواجهة + تحديث تلقائي */
-const VERSION = 'qrtag-v2.5.0';
+const VERSION = 'qrtag-v2.6.2';
 const SHELL = ['./', 'index.html', 'manifest.json', 'manifest-white.json',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-white-192.png', 'icons/icon-white-512.png',
   'icons/apple-touch-icon.png', 'icons/apple-touch-icon-white.png', 'icons/favicon-48.png', 'icons/favicon-light-48.png', 'icons/favicon-32.png'];
